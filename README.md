@@ -1,7 +1,7 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 
 # Developed by: Mukesh Kumar S 
-# RegisterNumber: 2122232240099
+# RegisterNumber: 212223240099
 
 # AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
