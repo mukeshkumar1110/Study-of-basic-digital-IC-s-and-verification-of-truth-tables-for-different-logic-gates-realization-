@@ -9,9 +9,10 @@ To study about the different digital IC’s and to verify the truth table in Qua
 # Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
 
-# Introduction
+# Theory:
+
+# Introduction:
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -21,6 +22,7 @@ NAND gate
 NOR gate
 Ex-OR gate
 Ex-NOR gate
+
 # 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 
