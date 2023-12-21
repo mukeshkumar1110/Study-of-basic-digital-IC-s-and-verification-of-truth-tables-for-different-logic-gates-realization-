@@ -88,5 +88,5 @@ endmodule
 # Output:
 ![Basic Gates Waveform](https://github.com/RoopakCS/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139228922/106c6b02-2893-4b46-9e78-c0fb4f012aba)
 
-Result:
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
